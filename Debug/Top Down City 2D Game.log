@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\razvan\Desktop\Top Down City 2D Game\main.cpp(80,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\razvan\Desktop\Top Down City 2D Game\main.cpp(248,43): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\razvan\Desktop\Top Down City 2D Game\main.cpp(256,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Top Down City 2D Game.vcxproj -> C:\Users\razvan\Desktop\Top Down City 2D Game\Debug\Top Down City 2D Game.exe

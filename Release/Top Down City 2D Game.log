@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\razvan\Desktop\Top Down City 2D Game\main.cpp(80,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\razvan\Desktop\Top Down City 2D Game\main.cpp(248,43): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\razvan\Desktop\Top Down City 2D Game\main.cpp(256,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 356 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Top Down City 2D Game.vcxproj -> C:\Users\razvan\Desktop\Top Down City 2D Game\Release\Top Down City 2D Game.exe

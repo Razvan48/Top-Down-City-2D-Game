@@ -1,0 +1,14 @@
+Useful information:
+-we will draw the city in the xOy coordinate system, the z component being the height;
+- the entire map is stored in a two-dimensional matrix/vector, according to the following convention:
+
+Convention:
+    nothing = -3;
+    water = -2;
+    grass = -1;
+    street = 0;
+    1 <= building_1 <= 99;
+    101 <= building_2 <= 199;
+    201 <= building_3 <= 299;
+    We notice that cells 100, 200, 300, etc. will not be used; we can store various things in them.
+
