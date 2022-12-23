@@ -1,11 +1,13 @@
-# Top-Down-City-2D-Game
+# Top-Down-City-2D-Game | _C++, OpenGL_
 
-*Controls:*
--WSAD for moving around
--to enlarge/reduce the image
--to build streets press 'B';
--to delete the current cell press 'X';
-- to decrease/increase the height of the building in the current cell press 'N', respectively 'M';
--to place the grass we use the 'I' key;
--to place water we use the 'O' key;
-- to close the application we use ESC;
+**Controls:**
+WSAD for moving around
+Mouse scroll wheel for zooming in/out
+Button B for building a road in the current cell
+Button X for deleting the current cell
+Button N and M for decreasing/increasing the height of the building in the current cell
+Button I for setting the current cell to grass
+Button O for setting the current cell to water
+Esc for closing the application
+
+
